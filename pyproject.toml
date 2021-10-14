@@ -1,0 +1,49 @@
+[tool.briefcase]
+project_name = "Omni-Notes Python"
+bundle = "com.example"
+version = "0.0.1"
+url = "https://example.com/omninotespython"
+license = "BSD license"
+author = 'Kevin Couillard'
+author_email = "kevincouillard4@gmail.com"
+
+[tool.briefcase.app.omninotespython]
+formal_name = "Omni-Notes Python"
+description = "Conversion of Omni-Notes java version to python."
+icon = "src/omninotespython/resources/omninotespython"
+sources = ['src/omninotespython']
+requires = []
+
+
+[tool.briefcase.app.omninotespython.macOS]
+requires = [
+    'toga-cocoa>=0.3.0.dev20',
+]
+
+[tool.briefcase.app.omninotespython.linux]
+requires = [
+    'toga-gtk>=0.3.0.dev20',
+]
+system_requires = [
+    'libgirepository1.0-dev',
+    'libcairo2-dev',
+    'libpango1.0-dev',
+    'libwebkitgtk-3.0-0',
+    'gir1.2-webkit-3.0',
+]
+
+[tool.briefcase.app.omninotespython.windows]
+requires = [
+    'toga-winforms>=0.3.0.dev20',
+]
+
+# Mobile deployments
+[tool.briefcase.app.omninotespython.iOS]
+requires = [
+    'toga-iOS>=0.3.0.dev20',
+]
+
+[tool.briefcase.app.omninotespython.android]
+requires = [
+    'toga-android>=0.3.0.dev20',
+]

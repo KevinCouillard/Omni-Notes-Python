@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.5
+Name: omninotespython
+Formal-Name: Omni-Notes Python
+App-ID: com.example.omninotespython
+Version: 0.0.1
+Home-page: https://example.com/omninotespython
+Author: Kevin Couillard
+Author-email: kevincouillard4@gmail.com
+Summary: Conversion of Omni-Notes java version to python.
