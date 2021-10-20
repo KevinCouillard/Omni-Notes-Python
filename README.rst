@@ -1,6 +1,6 @@
 Omni-Notes Python
 =================
-**What is this?**
+****What is this?****
 =================
 
 This is a conversion of Omni-Notes java version to python. It was created with the use of `The BeeWare Project`_ - essentially a collection of tools to help write python code, containing a native user interface and the libraries and support code to run an app on IOS, Android, Windows, etc.   
