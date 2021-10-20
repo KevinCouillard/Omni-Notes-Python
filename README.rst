@@ -1,11 +1,11 @@
 Omni-Notes Python
 =================
-****What is this?****
+**What is this?**
 =================
 
 This is a conversion of Omni-Notes java version to python. It was created with the use of `The BeeWare Project`_ - essentially a collection of tools to help write python code, containing a native user interface and the libraries and support code to run an app on IOS, Android, Windows, etc.   
 
-How to run this project?
+**How to run this project?**
 =================
 
 To run this project you need to install Python, perferrably 3.6, 3.7, or 3.8. You will also need to install git and `Briefcase`_. From here a BeeWare project space can be created anytime through the command console. For detailed information regarding the set up and use of BeeWare and it's tools, see the `Tutorial`_.  
