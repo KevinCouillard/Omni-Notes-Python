@@ -36,7 +36,7 @@ Current State
 
 \-Basic UI design from limitations in style options  
 
-\-Repo is messy due to the BeeWare project organization
+\-Repo is messy due to the BeeWare project file organization
 
 Future State
 ================
