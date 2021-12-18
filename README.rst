@@ -40,4 +40,5 @@ Future State
 ================
 
 I do not have many hopes for the expansion of this application as I created it to help myself learn Python.  
+
 However, I moved this project to a Tkinter implementation b/c of the limitations of using Toga and BeeWare.
