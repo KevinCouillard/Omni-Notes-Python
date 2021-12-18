@@ -30,7 +30,7 @@ consider** `becoming a financial member of BeeWare`_.
 Current State
 ================
 
--Basic front end implementation of toolbar and sidebar<br/>
+-Basic front end implementation of toolbar and sidebar<br\>
 -Basic front and backend implementation for the text/checklist note types\
 -Basic UI design from limitations in style options 
 
