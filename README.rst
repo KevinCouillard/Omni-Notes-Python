@@ -26,3 +26,16 @@ consider** `becoming a financial member of BeeWare`_.
 .. _`becoming a financial member of BeeWare`: https://beeware.org/contributing/membership
 .. _`Tutorial`: https://docs.beeware.org/en/latest/tutorial/tutorial-0.html
 .. _`Toga`: https://readthedocs.org/projects/toga/downloads/pdf/latest/
+
+Current State
+================
+
+-Basic front end implementation of toolbar and sidebar
+-Basic front and backend implementation for the text/checklist note types
+-Basic UI design from limitations in style options
+
+Future State
+================
+
+I do not have many hopes for the expansion of this application as I created it to help myself learn Python.
+However, I moved this project to a Tkinter implementation b/c of the limitations of using Toga and BeeWare.
