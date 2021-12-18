@@ -30,12 +30,12 @@ consider** `becoming a financial member of BeeWare`_.
 Current State
 ================
 
--Basic front end implementation of toolbar and sidebar_
--Basic front and backend implementation for the text/checklist note types_
+-Basic front end implementation of toolbar and sidebar <br>
+-Basic front and backend implementation for the text/checklist note types <br>
 -Basic UI design from limitations in style options 
 
 Future State
 ================
 
-I do not have many hopes for the expansion of this application as I created it to help myself learn Python._
+I do not have many hopes for the expansion of this application as I created it to help myself learn Python. <br>
 However, I moved this project to a Tkinter implementation b/c of the limitations of using Toga and BeeWare.
